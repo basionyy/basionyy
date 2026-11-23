@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Mohamed El Basiony 👋
+**Motion Designer & Video Editor | AI Ads** 🎬
 
-<!--
-**basionyy/basionyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I turn briefs into videos that move people — and products. My work covers commercial ads, product films, social media campaigns, reels, and creative content for brands and agencies — filmed, animated, AI-generated, or a mix of all three.
 
-Here are some ideas to get you started:
+## 🎥 What I do
+- Motion graphics & animation
+- Video editing
+- AI product videos & ads
+- Social media content & reels
+- Commercial ads & product films
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools
+Adobe After Effects, Premiere Pro, Photoshop, Illustrator, CapCut, and AI video & image tools.
+
+## 🤝 Connect
+- LinkedIn: https://www.linkedin.com/in/basionyy
+- Email: basionyy9@gmail.com
+- Portfolio website: coming soon
